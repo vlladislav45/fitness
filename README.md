@@ -1,7 +1,7 @@
 # fitness
 Web page within fitness template
 
-##For contributors/developers ##Tech Stack
+##For contributors/developers
 
 Front End
 * HTML&CSS
