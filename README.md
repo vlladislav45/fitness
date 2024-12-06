@@ -1,5 +1,5 @@
 # fitness
-Web page within fitness template
+Web page - Basic Fitness template
 
 ##For contributors/developers
 
